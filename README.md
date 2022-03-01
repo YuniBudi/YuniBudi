@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YuniBudi
 - 👀 I’m interested in Data Science and Economics
 - 🌱 I’m currently learning Economic Accounting
-- 💞️ I’m looking to collaborate on Data Sciance and my thesis project
+- 💞️ I’m looking to collaborate on Data Science and my thesis project
 - 📫 How to reach me : yuni.mml@gmail.com
 
 <!---
